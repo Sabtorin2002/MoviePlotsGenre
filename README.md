@@ -30,25 +30,6 @@ The dataset used in this project is the [Wikipedia Movie Plots](https://www.kagg
    - A supervised baseline model.
 4. Interpret the results to understand cluster characteristics and align them with movie genres.
 
-## Project Grading Criteria
-The project is graded based on the following criteria:
-1. **Tests with 2 clustering models (1 point)**
-   - OPTICS and BIRCH are implemented and tested.
-2. **Feature representation (1 point)**
-   - Two distinct feature representations are used (text and numeric/tabular).
-3. **Hyperparameter tuning (1 point)**
-   - Parameters such as distance metrics, `min_samples` (OPTICS), and `threshold` (BIRCH) are tuned with visualizations of performance variation.
-4. **Comparison with baselines (0.5 points)**
-   - Random chance and supervised baselines are used for evaluation.
-5. **Interpretation of clusters (1 point)**
-   - Analysis of what the clusters represent and their characteristics.
-6. **Documentation (0.5 points)**
-   - This README and other documentation describe the project in detail.
-7. **Correctness of approach (1 point)**
-   - Proper train-test split, avoidance of label leakage, and adherence to project requirements.
-8. **Additional aspects (1 bonus point)**
-   - Testing a third method or exploring unsupervised transfer learning.
-
 ## Project Structure
 ```
 .
