@@ -21,13 +21,6 @@ Genre (used as labels for interpretability)
 
 Plot (used for clustering)
 
-Dataset Requirements Met:
-
-The dataset contains more than 1000 samples.
-
-The dataset is not considered a popular benchmark dataset (e.g., MNIST, CIFAR).
-
-The dataset includes labels (Genre) for comparison with supervised methods.
 
 Objectives
 
