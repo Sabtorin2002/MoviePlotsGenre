@@ -1,9 +1,9 @@
 # MoviePlotsGenre
-Overview
+#Overview
 
 This repository contains the implementation of Project 2 for the Practical Machine Learning class. The project involves clustering movie plot data using two unsupervised learning methods: OPTICS and BIRCH. The goal is to explore patterns and group movies based on plot similarities, analyze the results, and compare them to known genres.
 
-Dataset
+#Dataset
 
 The dataset used in this project is the Wikipedia Movie Plots dataset. This dataset contains information about movies such as:
 
@@ -22,7 +22,7 @@ Genre (used as labels for interpretability)
 Plot (used for clustering)
 
 
-Objectives
+#Objectives
 
 Cluster movies based on plot similarities using:
 
